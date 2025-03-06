@@ -82,6 +82,7 @@ dependencies = [
     "aiosqlite>=0.20.0",
     "greenlet>=3.1.1",
     "sqlalchemy[aiosqlite]>=2.0.38,<3.0.0",
+    "yt_dlp>=2025.2.19",
 ]
 
 [dependency-groups]
